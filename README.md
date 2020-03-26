@@ -36,7 +36,7 @@ or\
  >Run and enjoy:\
  `python main.py`
  
- ### HINTS :
+ ### Hints :
 >1- with up and down key you can increase or decrease your vehicles speed\
 >2- with left and right key you can turn your vehicle to left or right \
 >3- with space key you can use special vehicles(police,race,military) special abilities\
