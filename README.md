@@ -4,7 +4,7 @@ Dead Gear Version 0.1
 ### Description :
 >Dead Gear is a simple pygame written in python 3
 ### Dependencies :
->pygame\
+>pygame
 ### Install Dependencies :
 `sudo pip3 install -r requirements.txt`\
 or\
