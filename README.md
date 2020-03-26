@@ -16,7 +16,7 @@ or\
 ![](https://github.com/MoIzadloo/Dead-Gear/blob/master/Screenshot_4.png)\
 ![](https://github.com/MoIzadloo/Dead-Gear/blob/master/Screenshot_5.png)\
 ![](https://github.com/MoIzadloo/Dead-Gear/blob/master/Screenshot_6.png)\
-![](https://github.com/MoIzadloo/Dead-Gear/blob/master/Screenshot_7.png)\
+![](https://github.com/MoIzadloo/Dead-Gear/blob/master/Screenshot_7.png)
 ### Download & Config & Usage:
 ### Linux
 >Download the tool from github\
