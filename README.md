@@ -35,6 +35,15 @@ or\
  `cd to the main.py file path`\
  >Run and enjoy:\
  `python main.py`
+ ### HINTS :
+>1- with up and down key you can increase or decrease your vehicles speed
+>2- with left and right key you can turn your vehicle to left or right 
+>3- with space key you can use special vehicles(police,race,military) special abilities
+>4- police car : cars will spawn with lower speeds
+>5- race car : you can freeze the game for one second and cahnge speed or Direction
+>6- tank : you can shoot rockets and destroy cars also you will achieve high score 
+>7- if you achieve 3000 score you will be won
+
  ### Contact us
  >Email :
  `moizadloo@gmail.com`
