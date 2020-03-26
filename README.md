@@ -10,10 +10,14 @@ Dead Gear Version 0.1
 or\
 `sudo pip3 install pygame`
 ### Screenshot:
-![](https://github.com/MoIzadloo/SQLiteBrowser/blob/master/Screenshot/Screenshot%20(1).png)\
-![](https://github.com/MoIzadloo/SQLiteBrowser/blob/master/Screenshot/Screenshot%20(2).png)\
-![](https://github.com/MoIzadloo/SQLiteBrowser/blob/master/Screenshot/Screenshot%20(3).png)\
-![](https://github.com/MoIzadloo/SQLiteBrowser/blob/master/Screenshot/Screenshot%20(4).png)
+![]https://github.com/MoIzadloo/Dead-Gear/blob/master/Screenshot_1.png)\
+![]https://github.com/MoIzadloo/Dead-Gear/blob/master/Screenshot_2.png)\
+![]https://github.com/MoIzadloo/Dead-Gear/blob/master/Screenshot_3.png)\
+![]https://github.com/MoIzadloo/Dead-Gear/blob/master/Screenshot_4.png)\
+![]https://github.com/MoIzadloo/Dead-Gear/blob/master/Screenshot_5.png)\
+![]https://github.com/MoIzadloo/Dead-Gear/blob/master/Screenshot_6.png)\
+![]https://github.com/MoIzadloo/Dead-Gear/blob/master/Screenshot_7.png)\
+![]https://github.com/MoIzadloo/Dead-Gear/blob/master/Screenshot_8.png)\
 ### Download & Config & Usage:
 ### Linux
 >Download the tool from github\
