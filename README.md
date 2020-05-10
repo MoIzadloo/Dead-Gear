@@ -1,6 +1,6 @@
 Dead Gear Version 0.1
 =============
->Author : Mostafa Izadloo , Reza Salehi
+>Author : Mostafa Izadloo
 ### Description :
 >Dead Gear is a simple pygame written in python 3
 ### Dependencies :
