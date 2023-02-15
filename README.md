@@ -39,7 +39,7 @@ or\
  ### Hints :
 >1- with up and down key you can increase or decrease your vehicles speed\
 >2- with left and right key you can turn your vehicle to left or right \
->3- with space key you can use special vehicles(police,race,military) special abilities\
+>3- with space key you can use special vehicles (police,race,military) special abilities\
 >4- police car : cars will spawn with lower speeds\
 >5- race car : you can freeze the game for one second and change your speed or direction\
 >6- tank : you can shoot rockets and destroy cars also you will achieve high scores \
