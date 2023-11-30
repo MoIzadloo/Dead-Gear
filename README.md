@@ -1,15 +1,20 @@
-Dead Gear Version 0.1
-=============
->Author : Mostafa Izadloo
-### Description :
->Dead Gear is a simple pygame written in python 3
-### Dependencies :
+<img src="./logo.png" width="90" align="right" />
+
+### Dead Gear
+Your journey begins in a humble beat-up car, weaving through a maze of speeding cars and trucks. As you navigate the chaotic streets, earn points and collect coins to upgrade your vehicle, transforming it from a rusty relic into a high-performance police cruiser.
+
+With your police cruiser's enhanced speed and maneuverability, you'll dominate the road, dodging obstacles and pursuing high-speed chases. But that's not all – your arsenal expands to include a potent freeze ray, allowing you to temporarily halt time and plan your next move with precision.
+
+As you progress, the challenges intensify, and your vehicle undergoes a final metamorphosis into an unstoppable tank. Armed with powerful rockets, you'll blast your way through the traffic, leaving a trail of destruction in your wake.
+
+Your ultimate goal is to achieve the coveted 3,000-point milestone, a testament to your driving skills and unwavering determination. Dead Gear is a thrilling test of reflexes and strategy, where every decision and maneuver matters. So, get ready to hit the gas and experience the exhilaration of Dead Gear!
+### Dependencies
 >pygame
-### Install Dependencies :
+### Install Dependencies
 `sudo pip3 install -r requirements.txt`\
 or\
 `sudo pip3 install pygame`
-### Screenshot:
+### Screenshot
 ![](https://github.com/MoIzadloo/Dead-Gear/blob/master/Screenshot_1.png)\
 ![](https://github.com/MoIzadloo/Dead-Gear/blob/master/Screenshot_2.png)\
 ![](https://github.com/MoIzadloo/Dead-Gear/blob/master/Screenshot_3.png)\
@@ -17,7 +22,7 @@ or\
 ![](https://github.com/MoIzadloo/Dead-Gear/blob/master/Screenshot_5.png)\
 ![](https://github.com/MoIzadloo/Dead-Gear/blob/master/Screenshot_6.png)\
 ![](https://github.com/MoIzadloo/Dead-Gear/blob/master/Screenshot_7.png)
-### Download & Config & Usage:
+### Download & Config & Usage
 ### Linux
 >Download the tool from github\
 `git clone https://github.com/MoIzadloo/Dead-Gear.git`\
@@ -45,6 +50,6 @@ or\
 >6- tank : you can shoot rockets and destroy cars also you will achieve high scores \
 >7- if you achieve 3000 score you will be won
 
- ### Contact us
+ ### Contact Me
  >Email :
  `moizadloo@gmail.com`
